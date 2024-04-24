@@ -2,9 +2,9 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# Projeto Final - Parte 1
 
-Turma Online X | X-end | Semana X | 202X | Professora X
+Turma Online On34 | Python | Semana 17 | 2024 | <a href="" target="_blank" rel="noopener noreferrer">Professora </a>
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
