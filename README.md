@@ -4,7 +4,7 @@
 
 # Tema da Aula
 
-Turma Online 34 | Python | Semanas 17 e 18 | 2024 | Daniele Junior
+Turma Online 34 | Python | Semanas 17 e 18 | 2024 | [Daniele Junior](https://travatech.com.br?router=danijr)
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
