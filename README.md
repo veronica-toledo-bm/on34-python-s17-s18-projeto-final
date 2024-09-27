@@ -2,9 +2,9 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Projeto Final - Parte 1
+# Projeto Final
 
-Turma Online On34 | Python | Semana 17 | 2024 | <a href="" target="_blank" rel="noopener noreferrer">Professora </a>
+Turma Online On34 | Python | Semana 17 e 18 | 2024 | [Professora Daniele](https://www.linkedin.com/in/daniele-fernandes-rodrigues-junior-8244bb24/)
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
