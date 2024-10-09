@@ -1,0 +1,254 @@
+Faixa idade,Genero,Cor_raca_etnia,PCD,Vive no Brasil,Estado onde mora,Regiao onde mora,Mudou de estado?,Regiao Origem,Oportunidades de aprendizado e trabalhar com referencias na area,Quantidade vagas recebidas,Nivel Ensino,Area Formacao,Aprovação processo seletivo entrevistas,Relacao senioridade experiencia
+25-29,Feminino,Prefiro nÃ£o informar,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,Rio de Janeiro (RJ),0.0,0.0,Mestrado,Outra opÃ§Ã£o,1.0,1.0
+30-34,Feminino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),1.0,0.0,Mestrado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+50-54,Feminino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,ParÃ¡ (PA),0.0,1.0,Mestrado,QuÃ­mica / FÃ­sica,0.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,Pernambuco (PE),Nordeste,0.0,GoiÃ¡s (GO),1.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,SÃ£o Paulo (SP),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,Rio Grande do Sul (RS),Sul,0.0,Pernambuco (PE),0.0,1.0,Mestrado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,0.0
+22-24,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,EspÃ­rito Santo (ES),0.0,0.0,Estudante de GraduaÃ§Ã£o,Outras Engenharias,0.0,0.0
+25-29,Feminino,Parda,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,Mato Grosso do Sul (MS),1.0,1.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+40-44,Masculino,Parda,NÃ£o,1,Mato Grosso do Sul (MS),Centro-oeste,0.0,SÃ£o Paulo (SP),0.0,1.0,Mestrado,Outras Engenharias,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,0.0,0.0
+22-24,Feminino,Parda,NÃ£o,1,ParaÃ­ba (PB),Nordeste,0.0,Rio de Janeiro (RJ),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Pernambuco (PE),1.0,1.0,PÃ³s-graduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,1.0
+30-34,Feminino,Branca,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,Rio Grande do Sul (RS),0.0,0.0,Doutorado ou Phd,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,0.0
+35-39,Feminino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Santa Catarina (SC),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+22-24,Feminino,Preta,NÃ£o,1,Santa Catarina (SC),Sul,0.0,Nasci/me formei fora do Brasil,0.0,1.0,Mestrado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+30-34,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Distrito Federal (DF),1.0,0.0,PÃ³s-graduaÃ§Ã£o,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,0.0,0.0
+25-29,Masculino,Parda,NÃ£o,1,Rio Grande do Norte (RN),Nordeste,0.0,CearÃ¡ (CE),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+30-34,Feminino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Distrito Federal (DF),0.0,0.0,PÃ³s-graduaÃ§Ã£o,CiÃªncias Sociais,0.0,0.0
+30-34,Feminino,Parda,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,CearÃ¡ (CE),0.0,0.0,Doutorado ou Phd,Outras Engenharias,0.0,0.0
+30-34,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,MaranhÃ£o (MA),1.0,0.0,Doutorado ou Phd,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+45-49,Masculino,Preta,NÃ£o,1,CearÃ¡ (CE),Nordeste,0.0,Bahia (BA),0.0,0.0,PÃ³s-graduaÃ§Ã£o,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,0.0,1.0
+25-29,Masculino,Preta,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Mato Grosso (MT),0.0,0.0,Mestrado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+40-44,Feminino,Branca,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,Rio Grande do Sul (RS),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outra opÃ§Ã£o,0.0,0.0
+35-39,Feminino,Preta,NÃ£o,1,Rio de Janeiro (RJ),Sudeste,0.0,Sergipe (SE),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,0.0
+40-44,Masculino,Preta,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),0.0,1.0,PÃ³s-graduaÃ§Ã£o,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,1.0,1.0
+22-24,Feminino,Branca,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,SÃ£o Paulo (SP),0.0,1.0,Estudante de GraduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+40-44,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,0.0
+35-39,Feminino,Parda,NÃ£o,1,Rio de Janeiro (RJ),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,Mestrado,Outras Engenharias,0.0,1.0
+40-44,Masculino,Parda,Sim,1,SÃ£o Paulo (SP),Sudeste,0.0,Bahia (BA),1.0,0.0,Doutorado ou Phd,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+35-39,Masculino,Parda,NÃ£o,1,Santa Catarina (SC),Sul,0.0,Minas Gerais (MG),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,Marketing / Publicidade / ComunicaÃ§Ã£o / Jornalismo,1.0,1.0
+30-34,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Bahia (BA),0.0,1.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,Amazonas (AM),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Parda,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,SÃ£o Paulo (SP),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,Rio Grande do Norte (RN),Nordeste,0.0,Santa Catarina (SC),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,0.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,Rio de Janeiro (RJ),Sudeste,0.0,Mato Grosso (MT),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outra opÃ§Ã£o,0.0,1.0
+35-39,Feminino,Preta,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,Rio de Janeiro (RJ),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,Rio de Janeiro (RJ),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Outra opÃ§Ã£o,0.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,ParÃ¡ (PA),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+50-54,Masculino,Parda,NÃ£o,1,Rio de Janeiro (RJ),Sudeste,0.0,SÃ£o Paulo (SP),0.0,1.0,PÃ³s-graduaÃ§Ã£o,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,0.0,0.0
+30-34,Masculino,Preta,NÃ£o,1,Amazonas (AM),Norte,0.0,CearÃ¡ (CE),1.0,1.0,Mestrado,QuÃ­mica / FÃ­sica,0.0,1.0
+30-34,Feminino,Branca,NÃ£o,1,Rio de Janeiro (RJ),Sudeste,0.0,ParanÃ¡ (PR),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outra opÃ§Ã£o,0.0,1.0
+35-39,Feminino,Branca,NÃ£o,1,Santa Catarina (SC),Sul,0.0,ParanÃ¡ (PR),0.0,0.0,PÃ³s-graduaÃ§Ã£o,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,0.0,0.0
+35-39,Masculino,Parda,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,Bahia (BA),0.0,1.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,RondÃ´nia (RO),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outra opÃ§Ã£o,1.0,1.0
+30-34,Feminino,Parda,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,Bahia (BA),0.0,0.0,Mestrado,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,0.0,0.0
+35-39,Masculino,Parda,NÃ£o,1,Rio Grande do Sul (RS),Sul,0.0,SÃ£o Paulo (SP),0.0,1.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,CearÃ¡ (CE),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outra opÃ§Ã£o,0.0,0.0
+30-34,Feminino,Parda,NÃ£o,1,Rio Grande do Sul (RS),Sul,0.0,ParÃ¡ (PA),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,0.0,1.0
+30-34,Feminino,Parda,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+50-54,Masculino,Parda,NÃ£o,1,Bahia (BA),Nordeste,0.0,Rio de Janeiro (RJ),0.0,1.0,Doutorado ou Phd,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,0.0,1.0
+22-24,Feminino,Parda,NÃ£o,1,ParaÃ­ba (PB),Nordeste,0.0,CearÃ¡ (CE),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+35-39,Feminino,Branca,NÃ£o,1,Rio de Janeiro (RJ),Sudeste,0.0,EspÃ­rito Santo (ES),1.0,0.0,Mestrado,QuÃ­mica / FÃ­sica,0.0,1.0
+30-34,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio Grande do Sul (RS),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outra opÃ§Ã£o,0.0,0.0
+40-44,Feminino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),1.0,1.0,Mestrado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+35-39,Masculino,Amarela,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,ParanÃ¡ (PR),0.0,0.0,Mestrado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,Santa Catarina (SC),Sul,0.0,Rio Grande do Sul (RS),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Marketing / Publicidade / ComunicaÃ§Ã£o / Jornalismo,0.0,0.0
+30-34,Feminino,Amarela,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,SÃ£o Paulo (SP),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outra opÃ§Ã£o,1.0,0.0
+22-24,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,CearÃ¡ (CE),0.0,0.0,Estudante de GraduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+35-39,Prefiro nÃ£o informar,Branca,NÃ£o,1,Mato Grosso (MT),Centro-oeste,0.0,SÃ£o Paulo (SP),0.0,0.0,Doutorado ou Phd,Outra opÃ§Ã£o,0.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,SÃ£o Paulo (SP),1.0,1.0,Mestrado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,1.0
+30-34,Masculino,Preta,NÃ£o,1,Santa Catarina (SC),Sul,0.0,Rio Grande do Sul (RS),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Outra opÃ§Ã£o,1.0,0.0
+30-34,Feminino,Parda,NÃ£o,1,Santa Catarina (SC),Sul,0.0,Santa Catarina (SC),0.0,0.0,Doutorado ou Phd,Outras Engenharias,0.0,1.0
+25-29,Feminino,Preta,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,Mestrado,Outras Engenharias,0.0,1.0
+35-39,Feminino,Branca,NÃ£o,1,Santa Catarina (SC),Sul,0.0,ParanÃ¡ (PR),0.0,0.0,PÃ³s-graduaÃ§Ã£o,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,1.0,1.0
+30-34,Masculino,Preta,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,SÃ£o Paulo (SP),1.0,1.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+25-29,Masculino,Parda,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,SÃ£o Paulo (SP),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,SÃ£o Paulo (SP),0.0,0.0,Mestrado,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,0.0,0.0
+35-39,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+35-39,Masculino,Parda,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,Alagoas (AL),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,Rio Grande do Sul (RS),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,0.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,Rio de Janeiro (RJ),Sudeste,0.0,SÃ£o Paulo (SP),0.0,1.0,Doutorado ou Phd,Outra opÃ§Ã£o,1.0,0.0
+25-29,Masculino,Parda,NÃ£o,1,Santa Catarina (SC),Sul,0.0,Bahia (BA),1.0,0.0,Mestrado,Outras Engenharias,1.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,CiÃªncias Sociais,1.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,0.0
+40-44,Feminino,Parda,NÃ£o,1,CearÃ¡ (CE),Nordeste,0.0,Bahia (BA),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,1.0
+30-34,Feminino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,Mestrado,Outras Engenharias,0.0,0.0
+25-29,Feminino,Amarela,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Mato Grosso do Sul (MS),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,1.0,0.0
+45-49,Feminino,Branca,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,SÃ£o Paulo (SP),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outra opÃ§Ã£o,1.0,0.0
+30-34,Feminino,Parda,NÃ£o,1,Sergipe (SE),Nordeste,0.0,Bahia (BA),0.0,1.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+35-39,Masculino,Parda,NÃ£o,1,GoiÃ¡s (GO),Centro-oeste,0.0,RondÃ´nia (RO),1.0,1.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,1.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,Pernambuco (PE),Nordeste,0.0,Rio Grande do Norte (RN),0.0,0.0,PÃ³s-graduaÃ§Ã£o,CiÃªncias Sociais,1.0,1.0
+25-29,Feminino,Preta,NÃ£o,1,Santa Catarina (SC),Sul,0.0,Rio de Janeiro (RJ),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,Rio de Janeiro (RJ),Sudeste,0.0,Rio Grande do Sul (RS),0.0,0.0,Doutorado ou Phd,CiÃªncias BiolÃ³gicas/ FarmÃ¡cia/ Medicina/ Ãrea da SaÃºde,0.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,GoiÃ¡s (GO),Centro-oeste,0.0,SÃ£o Paulo (SP),1.0,1.0,GraduaÃ§Ã£o/Bacharelado,Marketing / Publicidade / ComunicaÃ§Ã£o / Jornalismo,0.0,0.0
+25-29,Masculino,Parda,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,Mato Grosso do Sul (MS),1.0,0.0,GraduaÃ§Ã£o/Bacharelado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,Rio de Janeiro (RJ),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,1.0
+30-34,Feminino,Branca,NÃ£o,1,GoiÃ¡s (GO),Centro-oeste,0.0,Distrito Federal (DF),1.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+35-39,Masculino,Parda,NÃ£o,1,Santa Catarina (SC),Sul,0.0,SÃ£o Paulo (SP),0.0,1.0,PÃ³s-graduaÃ§Ã£o,CiÃªncias Sociais,1.0,1.0
+30-34,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,1.0
+40-44,Masculino,Parda,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,SÃ£o Paulo (SP),1.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+30-34,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,1.0,Mestrado,Outras Engenharias,1.0,1.0
+25-29,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Bahia (BA),0.0,0.0,PÃ³s-graduaÃ§Ã£o,CiÃªncias Sociais,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Mato Grosso (MT),1.0,0.0,PÃ³s-graduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,1.0
+25-29,Masculino,Parda,NÃ£o,1,GoiÃ¡s (GO),Centro-oeste,0.0,Bahia (BA),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+35-39,Masculino,Parda,NÃ£o,1,Bahia (BA),Nordeste,0.0,SÃ£o Paulo (SP),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+30-34,Feminino,Parda,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,Rio de Janeiro (RJ),0.0,1.0,Mestrado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,1.0
+22-24,Feminino,IndÃ­gena,NÃ£o,1,GoiÃ¡s (GO),Centro-oeste,0.0,ParÃ¡ (PA),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,CiÃªncias BiolÃ³gicas/ FarmÃ¡cia/ Medicina/ Ãrea da SaÃºde,0.0,0.0
+25-29,Masculino,Parda,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,Minas Gerais (MG),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+40-44,Masculino,Preta,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Distrito Federal (DF),1.0,1.0,Mestrado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+30-34,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,GoiÃ¡s (GO),0.0,1.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+30-34,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,EspÃ­rito Santo (ES),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,0.0,0.0
+25-29,Feminino,Parda,NÃ£o,1,GoiÃ¡s (GO),Centro-oeste,0.0,Minas Gerais (MG),0.0,0.0,PÃ³s-graduaÃ§Ã£o,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,0.0,0.0
+40-44,Feminino,Branca,NÃ£o,1,GoiÃ¡s (GO),Centro-oeste,0.0,Minas Gerais (MG),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,0.0
+17-21,Feminino,Preta,NÃ£o,1,GoiÃ¡s (GO),Centro-oeste,0.0,MaranhÃ£o (MA),1.0,0.0,Estudante de GraduaÃ§Ã£o,Marketing / Publicidade / ComunicaÃ§Ã£o / Jornalismo,0.0,1.0
+35-39,Masculino,Parda,Sim,1,Minas Gerais (MG),Sudeste,0.0,SÃ£o Paulo (SP),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,1.0,1.0
+40-44,Feminino,Parda,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,GoiÃ¡s (GO),0.0,0.0,Estudante de GraduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+40-44,Feminino,Branca,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,Minas Gerais (MG),0.0,0.0,Mestrado,Outra opÃ§Ã£o,0.0,0.0
+30-34,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,SÃ£o Paulo (SP),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outra opÃ§Ã£o,1.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,SÃ£o Paulo (SP),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+30-34,Feminino,Preta,NÃ£o,1,Santa Catarina (SC),Sul,0.0,RondÃ´nia (RO),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),0.0,0.0,Mestrado,QuÃ­mica / FÃ­sica,0.0,0.0
+25-29,Feminino,Parda,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,Rio de Janeiro (RJ),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,1.0,0.0
+30-34,Feminino,IndÃ­gena,Sim,1,ParanÃ¡ (PR),Sul,0.0,Minas Gerais (MG),1.0,1.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Mato Grosso (MT),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+30-34,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Bahia (BA),1.0,1.0,Mestrado,Outras Engenharias,1.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,CearÃ¡ (CE),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,0.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,Rio de Janeiro (RJ),Sudeste,0.0,CearÃ¡ (CE),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Marketing / Publicidade / ComunicaÃ§Ã£o / Jornalismo,0.0,0.0
+40-44,Feminino,Branca,NÃ£o,1,Rio de Janeiro (RJ),Sudeste,0.0,PiauÃ­ (PI),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Outra opÃ§Ã£o,1.0,1.0
+35-39,Feminino,Parda,NÃ£o,1,Rio de Janeiro (RJ),Sudeste,0.0,Minas Gerais (MG),0.0,1.0,Mestrado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,EspÃ­rito Santo (ES),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Marketing / Publicidade / ComunicaÃ§Ã£o / Jornalismo,0.0,0.0
+35-39,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,Rio de Janeiro (RJ),Sudeste,0.0,Bahia (BA),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,0.0
+25-29,Masculino,Preta,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Mato Grosso (MT),1.0,1.0,PÃ³s-graduaÃ§Ã£o,QuÃ­mica / FÃ­sica,1.0,0.0
+30-34,Feminino,Preta,NÃ£o,1,Santa Catarina (SC),Sul,0.0,MaranhÃ£o (MA),0.0,1.0,PÃ³s-graduaÃ§Ã£o,CiÃªncias BiolÃ³gicas/ FarmÃ¡cia/ Medicina/ Ãrea da SaÃºde,0.0,0.0
+25-29,Feminino,Amarela,Sim,1,SÃ£o Paulo (SP),Sudeste,0.0,Nasci/me formei fora do Brasil,0.0,0.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Parda,NÃ£o,1,RondÃ´nia (RO),Norte,0.0,Pernambuco (PE),0.0,1.0,Mestrado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,Santa Catarina (SC),Sul,0.0,Rio Grande do Sul (RS),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,Outra opÃ§Ã£o,0.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Distrito Federal (DF),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,0.0,0.0
+25-29,Feminino,Amarela,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,ParanÃ¡ (PR),0.0,0.0,Estudante de GraduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+30-34,Masculino,Parda,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,Rio de Janeiro (RJ),1.0,0.0,GraduaÃ§Ã£o/Bacharelado,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,0.0,0.0
+25-29,Masculino,Preta,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Bahia (BA),1.0,1.0,Estudante de GraduaÃ§Ã£o,QuÃ­mica / FÃ­sica,0.0,0.0
+25-29,Masculino,Parda,NÃ£o,1,ParaÃ­ba (PB),Nordeste,0.0,Tocantins (TO),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,0.0,1.0
+22-24,Feminino,Branca,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,SÃ£o Paulo (SP),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Outra opÃ§Ã£o,1.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),0.0,0.0,Mestrado,Outras Engenharias,1.0,0.0
+25-29,Masculino,Amarela,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Mato Grosso do Sul (MS),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),1.0,0.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,1.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,SÃ£o Paulo (SP),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,1.0,1.0
+30-34,Masculino,Preta,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Bahia (BA),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,1.0,0.0
+40-44,Feminino,Branca,NÃ£o,1,Santa Catarina (SC),Sul,0.0,SÃ£o Paulo (SP),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Marketing / Publicidade / ComunicaÃ§Ã£o / Jornalismo,0.0,1.0
+25-29,Masculino,Preta,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,ParÃ¡ (PA),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,0.0,0.0
+50-54,Feminino,Parda,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,ParanÃ¡ (PR),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,1.0
+30-34,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,0.0,0.0
+30-34,Masculino,Preta,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Bahia (BA),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,0.0
+30-34,Feminino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Roraima (RR),0.0,0.0,Doutorado ou Phd,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+35-39,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Bahia (BA),0.0,1.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,GoiÃ¡s (GO),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+30-34,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),0.0,0.0,Mestrado,Outras Engenharias,1.0,0.0
+30-34,Masculino,Parda,NÃ£o,1,PiauÃ­ (PI),Nordeste,0.0,ParÃ¡ (PA),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,0.0,0.0
+40-44,Feminino,Preta,NÃ£o,1,Rio Grande do Sul (RS),Sul,0.0,ParanÃ¡ (PR),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,Santa Catarina (SC),Sul,0.0,CearÃ¡ (CE),0.0,1.0,Mestrado,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,1.0,1.0
+30-34,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),0.0,0.0,Mestrado,Outras Engenharias,1.0,0.0
+40-44,Feminino,Branca,NÃ£o,1,Rio Grande do Sul (RS),Sul,0.0,Santa Catarina (SC),0.0,1.0,Doutorado ou Phd,Outra opÃ§Ã£o,1.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Distrito Federal (DF),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,0.0,0.0
+30-34,Masculino,Parda,NÃ£o,1,EspÃ­rito Santo (ES),Sudeste,0.0,Minas Gerais (MG),1.0,1.0,Mestrado,Outras Engenharias,1.0,1.0
+25-29,Masculino,Preta,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,Nasci/me formei fora do Brasil,1.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,0.0,0.0
+35-39,Feminino,Amarela,NÃ£o,1,CearÃ¡ (CE),Nordeste,0.0,ParÃ¡ (PA),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Marketing / Publicidade / ComunicaÃ§Ã£o / Jornalismo,0.0,1.0
+40-44,Feminino,Branca,NÃ£o,1,Pernambuco (PE),Nordeste,0.0,SÃ£o Paulo (SP),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,Marketing / Publicidade / ComunicaÃ§Ã£o / Jornalismo,0.0,0.0
+40-44,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Bahia (BA),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,Rio de Janeiro (RJ),Sudeste,0.0,EspÃ­rito Santo (ES),0.0,0.0,Mestrado,Outras Engenharias,0.0,0.0
+35-39,Masculino,Branca,Sim,1,Distrito Federal (DF),Centro-oeste,0.0,GoiÃ¡s (GO),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,ParanÃ¡ (PR),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,1.0,0.0
+30-34,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Bahia (BA),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,0.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,ParaÃ­ba (PB),Nordeste,0.0,Pernambuco (PE),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+45-49,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,1.0
+50-54,Masculino,Parda,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,ParaÃ­ba (PB),0.0,1.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+30-34,Feminino,Preta,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Bahia (BA),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,1.0
+25-29,Feminino,Parda,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,SÃ£o Paulo (SP),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,0.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,Rio Grande do Sul (RS),Sul,0.0,PiauÃ­ (PI),0.0,0.0,Doutorado ou Phd,Outra opÃ§Ã£o,0.0,0.0
+30-34,Feminino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),0.0,0.0,Mestrado,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,0.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,ParaÃ­ba (PB),1.0,1.0,Mestrado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,1.0
+30-34,Masculino,Parda,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,SÃ£o Paulo (SP),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,0.0
+30-34,Masculino,Preta,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,CearÃ¡ (CE),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,0.0,0.0
+30-34,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Mato Grosso (MT),0.0,1.0,Mestrado,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,0.0,0.0
+25-29,Masculino,Preta,Sim,1,Minas Gerais (MG),Sudeste,0.0,Bahia (BA),1.0,1.0,GraduaÃ§Ã£o/Bacharelado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,0.0
+35-39,Masculino,Preta,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Distrito Federal (DF),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Marketing / Publicidade / ComunicaÃ§Ã£o / Jornalismo,0.0,1.0
+22-24,Masculino,Parda,Prefiro nÃ£o informar,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,1.0,Estudante de GraduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+22-24,Feminino,Preta,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,Nasci/me formei fora do Brasil,0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,0.0
+25-29,Masculino,Preta,NÃ£o,1,Mato Grosso (MT),Centro-oeste,0.0,Amazonas (AM),1.0,0.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,1.0
+40-44,Masculino,Branca,Sim,1,Minas Gerais (MG),Sudeste,0.0,ParaÃ­ba (PB),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+35-39,Masculino,Parda,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,MaranhÃ£o (MA),0.0,0.0,Estudante de GraduaÃ§Ã£o,Outras Engenharias,1.0,0.0
+35-39,Prefiro nÃ£o informar,Prefiro nÃ£o informar,Prefiro nÃ£o informar,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio Grande do Sul (RS),1.0,1.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,1.0
+35-39,Feminino,Branca,NÃ£o,1,Santa Catarina (SC),Sul,0.0,Rio Grande do Sul (RS),0.0,1.0,Mestrado,CiÃªncias Sociais,1.0,1.0
+35-39,Prefiro nÃ£o informar,Prefiro nÃ£o informar,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio Grande do Sul (RS),1.0,1.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+30-34,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,GoiÃ¡s (GO),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,1.0,1.0
+30-34,Feminino,Branca,Sim,1,GoiÃ¡s (GO),Centro-oeste,0.0,MaranhÃ£o (MA),1.0,1.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,1.0,1.0
+22-24,Feminino,Parda,NÃ£o,1,GoiÃ¡s (GO),Centro-oeste,0.0,MaranhÃ£o (MA),0.0,0.0,Estudante de GraduaÃ§Ã£o,Outra opÃ§Ã£o,0.0,0.0
+30-34,Masculino,Parda,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,Amazonas (AM),0.0,1.0,Doutorado ou Phd,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+35-39,Masculino,Parda,NÃ£o,1,ParÃ¡ (PA),Norte,0.0,Pernambuco (PE),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,0.0
+35-39,Feminino,Parda,NÃ£o,1,Santa Catarina (SC),Sul,0.0,ParÃ¡ (PA),1.0,0.0,Estudante de GraduaÃ§Ã£o,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,0.0,0.0
+30-34,Feminino,Preta,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio Grande do Sul (RS),0.0,0.0,Mestrado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Parda,NÃ£o,1,EspÃ­rito Santo (ES),Sudeste,0.0,ParÃ¡ (PA),0.0,0.0,PÃ³s-graduaÃ§Ã£o,CiÃªncias Sociais,0.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,SÃ£o Paulo (SP),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+30-34,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,0.0,0.0
+35-39,Feminino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),1.0,1.0,PÃ³s-graduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,Santa Catarina (SC),Sul,0.0,Rio Grande do Sul (RS),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+35-39,Masculino,Preta,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,Nasci/me formei fora do Brasil,1.0,0.0,Doutorado ou Phd,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+25-29,Masculino,Outra,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,Rio de Janeiro (RJ),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),1.0,0.0,Mestrado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,1.0
+30-34,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Mato Grosso do Sul (MS),0.0,0.0,PÃ³s-graduaÃ§Ã£o,CiÃªncias BiolÃ³gicas/ FarmÃ¡cia/ Medicina/ Ãrea da SaÃºde,0.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,SÃ£o Paulo (SP),0.0,0.0,Doutorado ou Phd,CiÃªncias BiolÃ³gicas/ FarmÃ¡cia/ Medicina/ Ãrea da SaÃºde,0.0,0.0
+25-29,Feminino,Branca,Sim,1,Santa Catarina (SC),Sul,0.0,Rio Grande do Sul (RS),0.0,0.0,Estudante de GraduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,GoiÃ¡s (GO),Centro-oeste,0.0,SÃ£o Paulo (SP),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outra opÃ§Ã£o,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,ParaÃ­ba (PB),Nordeste,0.0,Pernambuco (PE),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,Rio Grande do Norte (RN),0.0,0.0,Doutorado ou Phd,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+25-29,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Amazonas (AM),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,0.0
+25-29,Feminino,Preta,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,Bahia (BA),1.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,0.0,0.0
+25-29,Feminino,Parda,NÃ£o,1,EspÃ­rito Santo (ES),Sudeste,0.0,Amazonas (AM),0.0,1.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Santa Catarina (SC),1.0,1.0,Mestrado,CiÃªncias BiolÃ³gicas/ FarmÃ¡cia/ Medicina/ Ãrea da SaÃºde,1.0,1.0
+25-29,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Pernambuco (PE),0.0,0.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+22-24,Feminino,Branca,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,SÃ£o Paulo (SP),0.0,1.0,Estudante de GraduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Distrito Federal (DF),1.0,0.0,GraduaÃ§Ã£o/Bacharelado,CiÃªncias Sociais,0.0,0.0
+40-44,Feminino,Branca,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,SÃ£o Paulo (SP),0.0,0.0,Doutorado ou Phd,Outras Engenharias,0.0,0.0
+25-29,Feminino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,0.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Bahia (BA),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,0.0,0.0
+30-34,Masculino,Parda,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,SÃ£o Paulo (SP),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,1.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,Mestrado,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,Rio Grande do Norte (RN),Nordeste,0.0,CearÃ¡ (CE),1.0,0.0,PÃ³s-graduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,0.0
+55+,Feminino,Parda,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,Rio de Janeiro (RJ),1.0,1.0,PÃ³s-graduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+35-39,Masculino,IndÃ­gena,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Nasci/me formei fora do Brasil,0.0,0.0,Doutorado ou Phd,QuÃ­mica / FÃ­sica,0.0,1.0
+30-34,Feminino,Branca,NÃ£o,1,Santa Catarina (SC),Sul,0.0,SÃ£o Paulo (SP),0.0,1.0,Mestrado,Outras Engenharias,0.0,1.0
+25-29,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),1.0,0.0,Estudante de GraduaÃ§Ã£o,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,1.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,ParanÃ¡ (PR),1.0,1.0,Mestrado,Outras Engenharias,1.0,1.0
+30-34,Masculino,Branca,Sim,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,1.0,Mestrado,Outras Engenharias,1.0,1.0
+30-34,Feminino,Preta,NÃ£o,1,MaranhÃ£o (MA),Nordeste,0.0,PiauÃ­ (PI),0.0,0.0,Estudante de GraduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Rio de Janeiro (RJ),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outra opÃ§Ã£o,0.0,1.0
+25-29,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Mato Grosso (MT),1.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,0.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),1.0,1.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,0.0,0.0
+25-29,Feminino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,CearÃ¡ (CE),0.0,0.0,Mestrado,Outras Engenharias,0.0,0.0
+25-29,Masculino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,EspÃ­rito Santo (ES),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,Outras Engenharias,1.0,0.0
+30-34,Feminino,Parda,Sim,1,ParanÃ¡ (PR),Sul,0.0,SÃ£o Paulo (SP),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Outras Engenharias,0.0,1.0
+25-29,Masculino,Parda,NÃ£o,1,Mato Grosso (MT),Centro-oeste,0.0,Mato Grosso do Sul (MS),0.0,1.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,1.0
+22-24,Masculino,Parda,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,SÃ£o Paulo (SP),1.0,1.0,GraduaÃ§Ã£o/Bacharelado,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,1.0,0.0
+25-29,Feminino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,CearÃ¡ (CE),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Outra opÃ§Ã£o,0.0,0.0
+40-44,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Santa Catarina (SC),1.0,1.0,Estudante de GraduaÃ§Ã£o,Outra opÃ§Ã£o,1.0,1.0
+25-29,Masculino,Preta,NÃ£o,1,EspÃ­rito Santo (ES),Sudeste,0.0,Pernambuco (PE),0.0,1.0,Mestrado,Outras Engenharias,1.0,0.0
+40-44,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Bahia (BA),0.0,0.0,GraduaÃ§Ã£o/Bacharelado,Outra opÃ§Ã£o,0.0,0.0
+22-24,Feminino,Parda,NÃ£o,1,Minas Gerais (MG),Sudeste,0.0,Bahia (BA),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,0.0
+30-34,Masculino,Parda,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,CearÃ¡ (CE),1.0,0.0,Estudante de GraduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,0.0
+25-29,Feminino,Branca,NÃ£o,1,CearÃ¡ (CE),Nordeste,0.0,Amazonas (AM),1.0,1.0,Doutorado ou Phd,CiÃªncias Sociais,0.0,0.0
+35-39,Feminino,Parda,NÃ£o,1,Santa Catarina (SC),Sul,0.0,Bahia (BA),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,1.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,Mato Grosso do Sul (MS),1.0,0.0,Mestrado,CiÃªncias BiolÃ³gicas/ FarmÃ¡cia/ Medicina/ Ãrea da SaÃºde,0.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Economia/ AdministraÃ§Ã£o / Contabilidade / FinanÃ§as/ NegÃ³cios,0.0,1.0
+45-49,Prefiro nÃ£o informar,Branca,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,Minas Gerais (MG),0.0,1.0,PÃ³s-graduaÃ§Ã£o,Outra opÃ§Ã£o,0.0,1.0
+22-24,Masculino,Preta,NÃ£o,1,ParaÃ­ba (PB),Nordeste,0.0,Pernambuco (PE),0.0,0.0,Estudante de GraduaÃ§Ã£o,Outras Engenharias,0.0,0.0
+25-29,Feminino,Parda,NÃ£o,1,SÃ£o Paulo (SP),Sudeste,0.0,ParÃ¡ (PA),0.0,0.0,Estudante de GraduaÃ§Ã£o,ComputaÃ§Ã£o / Engenharia de Software / Sistemas de InformaÃ§Ã£o/ TI,0.0,1.0
+50-54,Masculino,Parda,NÃ£o,1,Mato Grosso (MT),Centro-oeste,0.0,Rio Grande do Sul (RS),1.0,0.0,Doutorado ou Phd,QuÃ­mica / FÃ­sica,0.0,0.0
+40-44,Masculino,Parda,NÃ£o,1,Distrito Federal (DF),Centro-oeste,0.0,Bahia (BA),1.0,0.0,Mestrado,EstatÃ­stica/ MatemÃ¡tica / MatemÃ¡tica Computacional/ CiÃªncias Atuariais,1.0,0.0
+35-39,Feminino,Branca,NÃ£o,1,ParanÃ¡ (PR),Sul,0.0,SÃ£o Paulo (SP),0.0,0.0,Mestrado,Outras Engenharias,0.0,0.0
+30-34,Feminino,Branca,NÃ£o,1,ParaÃ­ba (PB),Nordeste,0.0,Minas Gerais (MG),0.0,0.0,PÃ³s-graduaÃ§Ã£o,Marketing / Publicidade / ComunicaÃ§Ã£o / Jornalismo,0.0,0.0
