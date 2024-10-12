@@ -1,23 +1,22 @@
 <h1 align="center">
-  <img src="https://www.prysmian.com/sites/www.prysmian.com/files/2024-01/internet-banner.png" alt="img internet" width="1000" height="300px">
+  <img src="/img/mundo.png" alt="img internet" width="1000" height="300px">
 </h1>
 
 
-<font face="perpetua"><h1>A utilização da internet pós pandemia e o impacto nas vagas de emprego</h1></font>
+<font face="perpetua"><h1>Navegando pela Inclusão: Internet e Computadores no Brasil</h1></font>
 
 <p>Nos últimos anos, especialmente durante e após a pandemia, o acesso à internet cresceu significativamente, assim como as oportunidades de emprego na área de tecnologia. Diante desse cenário, realizamos uma análise para evidenciar dados alarmantes sobre o impacto das vagas de emprego online no mundo, considerando que uma parte considerável da população ainda não possui acesso a computadores e internet em casa.</p>
 
-<p>Os dados utilizados para alimentar nossa aplicação (atualmente em execução apenas localmente) foram extraídos de fontes como o <a href="https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?edicao=38243&t=resultados">IBGE</a> e <a href="https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2023/data">Kaggle</a>, com base em informações coletadas nos anos de 2022 e 2023.</p>
+<p>Os dados utilizados para alimentar nossa aplicação (atualmente em execução apenas localmente) foram extraídos de fontes como o <a href="https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?edicao=38243&t=resultados" target="_blank">IBGE</a> e <a href="https://www.kaggle.com/datasets/sansuthi/gapminder-internet" target="_blank">Kaggle</a>, com base em informações coletadas nos anos de 2022 e 2023.</p>
 
-<p>Esperamos que essa análise contribua para uma melhor compreensão do acesso à tecnologia e suas implicações no mercado de trabalho, sobretudo para mulheres como as que frequentam a {Reprograma}, para que elas possam ter um olhar mais humanizado sobre seu desempenho.</p>
+<p>Esperamos que essa análise contribua para uma melhor compreensão do acesso à internet e suas oportunidades, sobretudo para empresas que buscam pessoas na área da tecnologia, ajudando a classe minoritária, obtendo um olhar mais humanizado sobre seu desempenho.</p>
 
 <font face="perpetua"><h2>Com os dados em mãos procuramos extrair o máximo de informações e responder algumas das seguintes questões:</h2></font>
 
 <ol>
     <li>Qual o indice de acesso a internet no Brasil comparado a outros países?</li>
     <li>Qual a média de acessos da população brasileira por estado da federação a internet?</li>
-    <li>Qual é a média de computadores por domicílio em cada região do Brasil?</li>
-    <li>Qual o perfil socioeconomico dos brasileiros que conseguiram vagas em tech em 2023, por estado?</li>
+    <li>Qual a média de quantos computadores existem por domicilio em cada região do Brasil?</li>
 </ol>
 
 <font face="perpetua"><h2>Ferramentas Utilizadas</h2></font>
@@ -34,7 +33,6 @@
 
  Em nosso arquivo temos as seguintes colunas: brasil e Grande Região, Existência de microcomputador ou tablet no domicílio, Ano x Situação do domicílio, etc
  
- Para responder as questões acima não é necessário utilizar as colunas XXX. Então, uma das alternativas é usar o Pandas para selecionar somente as colunas de nosso interesse.
 
 <font face="perpetua"><h2>Estrutura dos Dados</h2></font>
 
@@ -46,26 +44,31 @@ Em nosso arquivo, temos as seguintes colunas:
 </ul>
 
  
- Com esses dados devidamente transformados e limpos criei o meu _dashboard_ (painel onde os gráficos são visualizados).</p>
+ Com esses dados devidamente transformados e limpos foi criado o _dashboard_ (painel onde os gráficos são visualizados).</p>
 
-<font face="perpetua"><h2>Foram gerados os seguintes gráficos: EDITAR</h2></font>
+<font face="perpetua"><h2>Foram gerados os seguintes gráficos:</h2></font>
  
  <ul>
-    <li>Gráfico de barras com os estados e a quantidade de localidades atingidas.</li>
-    <li>Mapa de calor exibindo os locais afetados.</li>
-    <li>Tabela onde pode-se selecionar um estado e visualizar no mapa os pontos onde as manchas se encontram, como mostra o GIF abaixo.</li>
+    <li>Gráfico de barras com todos os países que possuem acesso a internet.</li>
+    <li>Gráfico de círculo mostrando o acesso a internet por continente.</li>
+    <li>Gráfico de pizza sobre a proporção de domicílios com e sem internet no Brasil.</li>
+    <li>Dashboard onde pode-se selecionar um estado, visualizar os gráficos e seus rótulos mencionados acima, como mostram as imagens abaixo.</li>
  </ul>
 
-#colocar a imagem do grafico criado
-<img src="" alt="imagem do grafico" width="500">
+<img src="/img/Captura de tela 2024-10-12 124226.png" alt="dashboard1" width="300" hspace="50">  <img src="/img/Captura de tela 2024-10-12 125037.png" alt="dashboard2" width="300">
+
 
 
 <font face="perpetua"><h2>🌟Algumas análises de acordo com o resultado encontrado:</h2></font>
 
 <ul>
-    <li>xxx</li>
-    <li>xxx</li>
-    <li>xxx</li>
+    <li>Em 2022, apenas 63,13% da população mundial usava a internet. Isso significa que apenas cerca de dois terços da população global está conectada à rede mundial de computadores. Embora possa parecer um número alto, ainda há uma grande parte da população que permanece offline, destacando disparidades no acesso à tecnologia e à informação e aprofundando o abismo social, sobretudo com o advento da inteligencia artificial.</li> <br>
+    <li>A média de acesso à internet no Brasil era de apenas 40,65%. Isso significa que menos da metade da população brasileira estava conectada à rede, destacando uma significativa desigualdade no acesso à tecnologia e à informação em comparação com países com maior percentual de usuários online.
+    Pensando nisso reunimos dados de quantos computadores e tablets existem por domicilio no Brasil.</li><br>
+    <li>Sobre a média de computadores nas diferentes regiões também revela -se desigualdades. A região Sudeste mais uma vez se destaca, com uma média de 14.866 computadores, evidenciando uma maior disseminação de tecnologia. O Nordeste aparece em segundo lugar, com uma média de 7.775,83 computadores, seguido pelo Sul com 5.046,33 computadores.<br>
+    Esses números ilustram as diferenças no acesso à tecnologia entre as regiões, com o Sudeste sendo a mais privilegiada em termos de disponibilidade de computadores.</li><br>
+    <li>Em 2023, as médias de computadores nas diferentes regiões do Brasil mostraram apenas pequenas alterações em relação ao ano anterior. Esse cenário indica que, embora tenha havido algumas mudanças, as desigualdades no acesso à tecnologia entre as regiões brasileiras persistem.</li><br>
+    <li>A análise mostrou que muitas regiões do Brasil têm um número significativo de domicílios sem computador ou tablet. Isso evidencia desigualdades tecnológicas, especialmente em termos de impacto no desenvolvimento educacional e profissional. O que nos levou a questionar quem são as pessoas que estão efetivamente conseguindo trabalho na área de tecnologia.</li>
 </ul>
 
 
@@ -74,9 +77,3 @@ Em nosso arquivo, temos as seguintes colunas:
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/101891674?v=4" width=115><br>](https://github.com/TmTeixeira) <a href="https://www.linkedin.com/in/analistatammyteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/171205733?v=4" width=115><br>](https://github.com/veronica-toledo-bm) <a href="https://www.linkedin.com/in/veronica-toledo-bm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 | :---: | :---: | 
 
-
- 
-
-<p align="center">
-Desenvolvido com :purple_heart:  
-</p>
