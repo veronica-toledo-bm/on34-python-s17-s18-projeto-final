@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="/img/mundo.png" alt="img internet" width="1000" height="300px">
-</h1>
+
+![Imagem local](./img/internet_mundo.jpg)
+
+
 
 
 <font face="perpetua"><h1>Navegando pela Inclusão: Internet e Computadores no Brasil</h1></font>
